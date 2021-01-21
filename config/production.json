@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://seli123:seli12345@cluster0.4rjej.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtToken": "mysecrettokenhere",
+    "githubClientId":"e8d813f5d093932a7ee1",
+    "githubSecret":"c2dc381e3bc6e924476c828b5c14fc73481a245f"
+}
